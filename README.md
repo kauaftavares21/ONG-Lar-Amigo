@@ -25,22 +25,37 @@ O projeto é composto por três páginas principais:
 
 ---
 
-## 🖼️ Capturas de Tela
+## 📁 Estrutura de Arquivos
 
-### Página Inicial
-![P![![Index](https://github.com/user-attachments/assets/0e3b4453-3b75-4c2c-b5f1-7b6dfcb25739)
-]()
-](./assets/readme/inicio.png)
-
-### Galeria de Adoção
-![![Adote](https://github.com/user-attachments/assets/17adc4d2-cfe3-4043-be33-66cf4965cbd8)
-](./assets/readme/adocao.png)
-
-### Página de Contato
-![Cont![Contato](https://github.com/user-attachments/assets/4a9948e7-76f9-4605-8217-b10f5a5b4cc7)
-ato](./assets/readme/contato.png)
+ong-lar-amigo/
+├── index.html
+├── adocao.html
+├── contato.html
+├── css/
+│ └── style.css
+└── assets/
+├── img/
+│ ├── logo.png
+│ └── animais/
+└── readme/
+├── inicio.png
+├── adocao.png
+└── contato.png
 
 ---
 
-## 📁 Estrutura de Arquivos
+## ✅ Funcionalidades
 
+- Layout responsivo com Flexbox
+- Design com cores suaves e amigáveis (azul e laranja)
+- Cartões estilizados com bordas e sombras
+- Navegação entre páginas com menu fixo
+- Formulário de contato funcional (estático)
+
+---
+
+## 🧪 Como Visualizar
+
+1. Clone este repositório:
+```bash
+git clone https://github.com/<seu-usuario>/ong-lar-amigo.git
