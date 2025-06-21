@@ -28,13 +28,17 @@ O projeto é composto por três páginas principais:
 ## 🖼️ Capturas de Tela
 
 ### Página Inicial
-![Página Inicial](./assets/readme/inicio.png)
+![P![![Index](https://github.com/user-attachments/assets/0e3b4453-3b75-4c2c-b5f1-7b6dfcb25739)
+]()
+](./assets/readme/inicio.png)
 
 ### Galeria de Adoção
-![Galeria de Adoção](./assets/readme/adocao.png)
+![![Adote](https://github.com/user-attachments/assets/17adc4d2-cfe3-4043-be33-66cf4965cbd8)
+](./assets/readme/adocao.png)
 
 ### Página de Contato
-![Contato](./assets/readme/contato.png)
+![Cont![Contato](https://github.com/user-attachments/assets/4a9948e7-76f9-4605-8217-b10f5a5b4cc7)
+ato](./assets/readme/contato.png)
 
 ---
 
